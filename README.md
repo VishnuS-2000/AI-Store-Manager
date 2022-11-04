@@ -1,8 +1,8 @@
 # AI-Store-Manager
-#Major Project CS S7
+## Major Project CS S7
 
-#Collbrators:
+## Collbrators:
 
-#Muhammed Jazim T K
-#Navaneeth S Hari
-#Shifan K Phoulad
+## Muhammed Jazim T K
+## Navaneeth S Hari
+## Shifan K Phoulad
