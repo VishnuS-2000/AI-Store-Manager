@@ -3,6 +3,4 @@
 
 ## Collbrators:
 
-## Muhammed Jazim T K
-## Navaneeth S Hari
-## Shifan K Phoulad
+#### Muhammed Jazim T K,Navaneeth S Hari,Shifan K Phoulad
