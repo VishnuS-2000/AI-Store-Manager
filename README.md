@@ -1,5 +1,5 @@
 # AI-Store-Manager
-## Major Project CS S7
+## Major Project 
 
 ## Collbrators:
 
