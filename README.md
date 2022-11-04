@@ -1,6 +1,6 @@
 # AI-Store-Manager
 ## Major Project 
 
-## Collbarators:
+## Collabrators:
 
 #### Muhammed Jazim T K,Navaneeth S Hari,Shifan K Phoulad
