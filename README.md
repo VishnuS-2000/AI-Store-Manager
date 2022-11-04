@@ -1,5 +1,5 @@
 # AI-Store-Manager
-## Major Project 
+#### A web app used for easily maanging various tasks in a store 
 
 ## Collabrators:
 
