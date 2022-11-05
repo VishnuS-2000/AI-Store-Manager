@@ -3,7 +3,7 @@ export default function Login(){
 
 
     return(
-        <div  className=" bg-gradient-to-r from-blue-400 to-blue-700  min-h-screen w-full flex justify-center items-center">
+        <div  className=" bg-white min-h-screen w-full flex justify-center items-center lg:bg-gradient-to-r from-blue-400 to-blue-700">
         <div className="flex gap-2 items-center w-[800px] h-[700px] bg-white rounded-[50px]">
 
         <div className="flex flex-col justify-center   gap-2 p-4 m-4 ml-12">
@@ -18,7 +18,7 @@ export default function Login(){
                 <Link href='/signupPage'><h6 className="flex font-medium text-sm">Create Account</h6></Link>
               </div>
               <div className="flex justify-end w-1/2">
-                <h6 className="flex  font-medium text-sm">Forgot Password ?</h6>
+                <h6 className="flex  font-medium text-sm ">Forgot Password ?</h6>
               </div>
 
               

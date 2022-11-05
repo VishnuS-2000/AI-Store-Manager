@@ -13,7 +13,7 @@ module.exports = {
       },
       screen:{
         tablet:'640px',
-        desktop:'1024px'
+        desktop:'1000px'
       }
     },
   },
