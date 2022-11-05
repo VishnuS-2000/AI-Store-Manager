@@ -1,8 +1,14 @@
+import Login from './loginPage';
+import 'animate.css'; 
+import Typewriter from 'typewriter-effect';
+import GoogleIcon from '@mui/icons-material/Google';
+
 
 export default function Home() {
   return (
-    <div  className="min-h-screen w-full flex justify-center items-center">
-      <h1 className="text-xl  font-[800] ">Welcome to AI Store Manager v0.0.0</h1>
+    <div  className=" bg-gradient-to-r from-blue-400 to-blue-700  min-h-screen w-full flex justify-center items-center">
+      
+      
     </div>
   )
 }
