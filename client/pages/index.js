@@ -1,7 +1,7 @@
 import Login from './loginPage';
-import 'animate.css'; 
 import Typewriter from 'typewriter-effect';
 import GoogleIcon from '@mui/icons-material/Google';
+
 
 
 export default function Home() {
